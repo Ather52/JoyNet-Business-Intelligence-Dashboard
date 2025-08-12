@@ -21,6 +21,7 @@ Product Portfolio – Categories, specifications, and pricing structures.
 Financial Records – Payment histories, methods, and transaction values.
 
 Organizational Structure – Employee roles, reporting lines, and office locations.
+
 The dataset contains thousands of records from multiple business streams, enabling both operational tracking and strategic forecasting.
 
 ## 📊 Dashboard Insights  
@@ -69,4 +70,5 @@ DAX (Data Analysis Expressions)
 ## 📢 Contributions
 
 👤 Author: Muhammmad Ather
+
 📧 Contact: athertahir52@gmail.com
